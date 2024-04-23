@@ -28,7 +28,5 @@ The code is applied and evaluated on the DIBCO 2016 dataset, which can be access
 Include here any notable results or findings from the evaluation process.
 
 ## Contributors
-- [Your Name](link-to-your-profile)
+- [Eman Azam](https://github.com/Eman-Bandesha)
 
-## License
-This project is licensed under the [MIT License](link-to-license-file).
