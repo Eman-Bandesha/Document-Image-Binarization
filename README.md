@@ -1,6 +1,4 @@
----
-title: Document Image Binarization Evaluation with Otsu, Sauvola, and Adaptive Gaussian Filtering
----
+
 
 # Document Image Binarization Evaluation with Otsu, Sauvola, and Adaptive Gaussian Filtering
 
