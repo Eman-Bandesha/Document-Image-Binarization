@@ -24,8 +24,6 @@ The code is applied and evaluated on the DIBCO 2016 dataset, which can be access
 3. **Evaluation:** Calculate PSNR, DRD, IOU, and SSIM metrics for each algorithm.
 4. **Analysis:** Analyze the performance of each algorithm based on the evaluation metrics.
 
-## Results
-Include here any notable results or findings from the evaluation process.
 
 ## Contributors
 - [Eman Azam](https://github.com/Eman-Bandesha)
